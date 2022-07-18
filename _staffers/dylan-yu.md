@@ -1,6 +1,6 @@
 ---
 name: Dylan Yu
-role: Founder, Instructor
+role: Founder
 email: dylanyu66@gmail.com
 website: https://yu-dylan.github.io/
 photo: kevin.jpg
