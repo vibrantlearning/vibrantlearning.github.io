@@ -8,8 +8,8 @@ description: A listing of all the course staff members.
 
 ## Instructors
 
-{% assign instructors = site.staffers | where: 'role', 'Founder, instructor' %}
-{% for staffer in instructors %}
+{% assign founders = site.staffers | where: 'role', 'Founder' %}
+{% for staffer in founders %}
 {{ staffer }}
 {% endfor %}
 
