@@ -1,9 +1,9 @@
 ---
-name: Evil Kevin
-role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
+name: Dylan Yu
+role: Founder, Instructor
+email: dylanyu66@gmail.com
+website: https://yu-dylan.github.io/
 photo: kevin.jpg
 ---
 
-I like teaching Computer Science!
+Dylan is a high school senior and a three-time USA(J)MO, two-time USAPhO, and a USACO Platinum division qualifier. Dylan is interested in mathematics, computer science, data science, and economics. In his spare time, he likes to listen to music of all genres and play basketball with his friends.
