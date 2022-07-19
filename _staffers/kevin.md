@@ -1,9 +1,9 @@
 ---
-name: Kevin Lin
+name: Rushil Shah
 role: Instructor
 email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+website: 
+photo: no-face.jpeg
 ---
 
 [Schedule an appointment](#){: .btn .btn-outline }
