@@ -3,13 +3,14 @@ layout: default
 title: Online Classes Club
 nav_exclude: true
 permalink: index.html
+color_scheme: dark
 seo:
   type: Course
   name: Online Classes Club
 ---
 
 <center>
-<h1 style="font-size:60px; text-align:center"> Online Classes Club </h1>
+<h1 style="font-size:100px; text-align:center"> Online Classes Club </h1>
 
   We are a group of students offering free, high quality classes in a variety of academic subjects. Join today to start learning.
 
