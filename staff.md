@@ -27,3 +27,14 @@ description: A listing of all the course staff members.
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+## Former Staff
+- Alex Hao
+- Anant Asthana
+- Caleb Tian
+- Kyler Mitra
+- Nathaniel John
+- Sahil Chowdhury
+- Siddarth Das
+- [Timothy Feng](http://stats.ioinformatics.org/people/7648)
+- Viraj Negandhi
