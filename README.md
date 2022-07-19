@@ -8,8 +8,31 @@ seo:
   name: Online Classes Club
 ---
 
-<body background="occ-tree-blur.png">
+<style>
+.hero-image {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("photographer.jpg");
+
+  /* Set a specific height */
+  height: 50%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+</style>
+
 <center>
+
+<div class="hero-image">
+  <div class="hero-text">
+    <h1>I am John Doe</h1>
+    <p>And I'm a Photographer</p>
+    <button>Hire me</button>
+  </div>
+</div>
 
 <p style="font-size:80px">Online Classes Club</p>   
 
@@ -22,4 +45,3 @@ seo:
   Head over to the <a href="/classes/">Classes</a> tab to find out more about the courses we offer.
   
 </center>
-</body>
