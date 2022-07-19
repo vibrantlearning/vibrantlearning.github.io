@@ -20,7 +20,7 @@ author: Dylan Yu
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://onlineclassesclub.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
-logo: "/assets/images/occ-logo.png"
+logo: "/assets/images/online classes logo.png"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.3.3
