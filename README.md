@@ -23,6 +23,10 @@ seo:
   </div>  
 </div>
   
+  [About](/about/){: .btn .btn-purple }
+  [Calendar](/calendar/){: .btn .btn-blue }
+  [Staff](/staff/){: .btn .btn-green }
+  
   <img src="assets/images/online classes logo.png" alt="OCC Logo">
   
   <p> We are a group of students offering free, high quality classes in a variety of academic subjects. Join today to start learning. </p>
