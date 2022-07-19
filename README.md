@@ -8,17 +8,22 @@ seo:
   name: Online Classes Club
 ---
 
-#bannerimage {
-  width: 100%;
-  background-image: url("occ-tree-blur.png");
-  height: 405px;
-  background-color: purple;
-  background-position: center;
-}
+<style>
+.banner {
+    /* The image used */
+    background-image: url(https://images5.alphacoders.com/330/330278.jpg);
+  }
+</style>
 
 <center>
 
-<div id="bannerimage">Hello</div>
+<div class="banner">
+  <div>
+    <h1>Welcome to the site</h1>
+    <h5>Sign up for free today</h5>
+    <button>Get started</button>
+  </div>  
+</div>
 
 <p style="font-size:80px">Online Classes Club</p>   
 
