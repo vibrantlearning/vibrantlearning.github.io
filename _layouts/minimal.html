@@ -31,7 +31,37 @@ layout: table_wrappers
       {% include nav.html pages=site.html_pages %}
     {% endif %}
   {% endcapture %}
-
+  
+  <header>
+    {% if site.search_enabled != false %}
+      <div class="search">
+        <div class="search-input-wrap">
+          <input type="text" id="search-input" class="search-input" tabindex="0" placeholder="Search {{ site.title }}" aria-label="Search {{ site.title }}" autocomplete="off">
+          <label for="search-input" class="search-label"><svg viewBox="0 0 24 24" class="search-icon"><use xlink:href="#svg-search"></use></svg></label>
+        </div>
+        <div id="search-results" class="search-results"></div>
+      </div>
+    {% endif %}
+    {% include header_custom.html %}
+    {% if site.aux_links %}
+      <nav aria-label="Auxiliary" class="aux-nav">
+        <ul class="aux-nav-list">
+          {% for link in site.aux_links %}
+            <li class="aux-nav-list-item">
+              <a href="{{ link.last }}" class="site-button"
+                {% if site.aux_links_new_tab %}
+                target="_blank" rel="noopener noreferrer"
+                {% endif %}
+              >
+                {{ link.first }}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    {% endif %}
+  </header>
+  
   <div id="main-content-wrap" class="main-content-wrap">
     {% unless page.url == "/" %}
       {% if page.parent %}
@@ -81,41 +111,6 @@ layout: table_wrappers
             </li>
           {% endfor %}
         </ul>
-      {% endif %}
-
-      {% capture footer_custom %}
-        {%- include footer_custom.html -%}
-      {% endcapture %}
-      {% if footer_custom != "" or site.last_edit_timestamp or site.gh_edit_link %}
-        <hr>
-        <footer>
-          {% if site.back_to_top %}
-            <p><a href="#top" id="back-to-top">{{ site.back_to_top_text }}</a></p>
-          {% endif %}
-
-          {{ footer_custom }}
-
-          {% if site.last_edit_timestamp or site.gh_edit_link %}
-            <div class="d-flex mt-2">
-              {% if site.last_edit_timestamp and site.last_edit_time_format and page.last_modified_date %}
-                <p class="text-small text-grey-dk-000 mb-0 mr-2">
-                  Page last modified: <span class="d-inline-block">{{ page.last_modified_date | date: site.last_edit_time_format }}</span>.
-                </p>
-              {% endif %}
-              {% if
-                site.gh_edit_link and
-                site.gh_edit_link_text and
-                site.gh_edit_repository and
-                site.gh_edit_branch and
-                site.gh_edit_view_mode
-              %}
-                <p class="text-small text-grey-dk-000 mb-0">
-                  <a href="{{ site.gh_edit_repository }}/{{ site.gh_edit_view_mode }}/{{ site.gh_edit_branch }}{% if site.gh_edit_source %}/{{ site.gh_edit_source }}{% endif %}/{{ page.path }}" id="edit-this-page">{{ site.gh_edit_link_text }}</a>
-                </p>
-              {% endif %}
-            </div>
-          {% endif %}
-        </footer>
       {% endif %}
 
     </div>
