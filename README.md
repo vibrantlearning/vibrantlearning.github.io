@@ -19,7 +19,9 @@ seo:
 
 <div class="banner">
   <div>
-    <p style="font-size:80px; color:white">Online Classes Club</p>   
+    <p style="font-size:80px; color:white">Online Classes Club</p>
+    
+    <img src="online classes logo.png" alt="OCC Logo">
   </div>  
 </div>
   
