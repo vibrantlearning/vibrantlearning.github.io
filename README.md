@@ -16,4 +16,4 @@ We are a group of students offering free, high quality classes in a variety of a
 The Online Classes Club was created in response to the pandemic of COVID-19. Our online classes are for those that want to continue learning more regardless of what is going on the world.
 
 ## Classes
-Head over to the [Classes](#) tab to find out more about the courses we offer.
+Head over to the [Classes](/classes/) tab to find out more about the courses we offer.
