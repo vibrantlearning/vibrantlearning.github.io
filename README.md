@@ -15,6 +15,10 @@ seo:
   }
 </style>
 
+<style>
+body { margin:0; }
+</style>
+
 <center>
 
 <div class="banner">
