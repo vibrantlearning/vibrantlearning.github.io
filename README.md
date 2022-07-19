@@ -10,7 +10,7 @@ seo:
 ---
 
 <center>
-<h1 style="font-size:100px; text-align:center"> Online Classes Club </h1>
+<font size="+6"> Online Classes Club </font>
 
   We are a group of students offering free, high quality classes in a variety of academic subjects. Join today to start learning.
 
