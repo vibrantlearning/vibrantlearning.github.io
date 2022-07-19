@@ -8,12 +8,7 @@ seo:
   name: Online Classes Club
 ---
 
-<style>
-body {
-  background-image: url('occ-tree-blur.png');
-}
-</style>
-
+<body background="occ-tree-blur.png">
 <center>
 
 <p style="font-size:80px">Online Classes Club</p>   
@@ -27,3 +22,4 @@ body {
   Head over to the <a href="/classes/">Classes</a> tab to find out more about the courses we offer.
   
 </center>
+</body>
