@@ -21,7 +21,7 @@ seo:
   <div>
     <p style="font-size:80px; color:white">Online Classes Club</p>
     
-    <img src="online classes logo.png" alt="OCC Logo">
+    <img src="assets/images/online classes logo.png" alt="OCC Logo">
   </div>  
 </div>
   
