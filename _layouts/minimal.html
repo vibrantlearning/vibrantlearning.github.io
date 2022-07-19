@@ -114,6 +114,16 @@ layout: table_wrappers
       {% endif %}
 
     </div>
+    
+    {% if site.search_enabled != false %}
+      {% if site.search.button %}
+        <a href="#" id="search-button" class="search-button">
+          <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-search"></use></svg>
+        </a>
+      {% endif %}
+
+      <div class="search-overlay"></div>
+    {% endif %}
   </div>
 </body>
 </html>
