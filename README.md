@@ -8,7 +8,14 @@ seo:
   name: Online Classes Club
 ---
 
+<style>
+body {
+  background-image: url('occ-tree-blur.png');
+}
+</style>
+
 <center>
+
 <p style="font-size:80px">Online Classes Club</p>   
 
   <p> We are a group of students offering free, high quality classes in a variety of academic subjects. Join today to start learning. </p>
