@@ -23,9 +23,13 @@ seo:
   </div>  
 </div>
   
-  [About](/about/){: .btn .btn-purple }
-  [Calendar](/calendar/){: .btn .btn-blue }
-  [Staff](/staff/){: .btn .btn-green }
+</center>
+
+[About](/about/){: .btn .btn-purple }
+[Calendar](/calendar/){: .btn .btn-blue }
+[Staff](/staff/){: .btn .btn-green }
+
+<center>
   
   <img src="assets/images/online classes logo.png" alt="OCC Logo">
   
