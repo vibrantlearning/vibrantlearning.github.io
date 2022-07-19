@@ -11,7 +11,7 @@ seo:
 <style>
   .hero-image {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-    background-image: url("occ-tree-blur.png");
+    background-image: url("assets/images/occ-tree-blur.png");
 
     /* Set a specific height */
     height: 50%;
