@@ -11,7 +11,7 @@ seo:
 <style>
 .banner {
     /* The image used */
-    background-image: url(https://images5.alphacoders.com/330/330278.jpg);
+    background-image: url(https://img.freepik.com/free-photo/beautiful-tree-middle-field-covered-with-grass-with-tree-line-background_181624-29267.jpg);
   }
 </style>
 
