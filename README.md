@@ -43,7 +43,6 @@ body { margin:0; }
       <p style="font-size:80px; color:white">Online Classes Club</p>
     </div>  
   </div>
-  
   <p> We are a group of students offering free, high quality classes in a variety of academic subjects. Join today to start learning. </p>
   
   <img src="assets/images/online classes logo.png" style="width:200px" alt="OCC Logo">
