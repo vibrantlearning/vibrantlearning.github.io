@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 title: Online Classes Club
 nav_exclude: true
 permalink: index.html
