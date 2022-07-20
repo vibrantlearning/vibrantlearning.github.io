@@ -29,9 +29,11 @@ body { margin:0; }
   
 </center>
 
-[About](/about/){: .btn .btn-purple } {style=text-align:center}
-[Calendar](/calendar/){: .btn .btn-blue } {style=text-align:center}
-[Staff](/staff/){: .btn .btn-green } {style=text-align:center}
+<div style="text-align:center;" markdown="1">
+  [About](/about/){: .btn .btn-purple }
+  [Calendar](/calendar/){: .btn .btn-blue }
+  [Staff](/staff/){: .btn .btn-green }
+</div>
 
 <center>
   
