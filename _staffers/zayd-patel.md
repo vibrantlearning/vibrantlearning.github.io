@@ -1,5 +1,5 @@
 ---
-name: Rushil Shah
+name: Zayd Patel
 role: Instructor
 email: 
 website: 
