@@ -43,13 +43,8 @@ body { margin:0; }
       <p style="font-size:80px; color:white">Online Classes Club</p>
     </div>  
   </div>
-
-  <a href="/about/"><button class="btn btn-green">About</button></a>
-  <a href="/announcements/"><button class="btn btn-green">Announcements</button></a>
-  <a href="/calendar/"><button class="btn btn-green">Calendar</button></a>
-  <a href="/staff/"><button class="btn btn-green">Staff</button></a>
   
-  <img src="assets/images/online classes logo.png" alt="OCC Logo">
+  <img src="assets/images/online classes logo.png" style="width:200px" alt="OCC Logo">
   
   <p> We are a group of students offering free, high quality classes in a variety of academic subjects. Join today to start learning. </p>
   
