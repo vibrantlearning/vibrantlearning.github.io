@@ -31,6 +31,7 @@ body { margin:0; }
 
 <div style="text-align:center;" markdown="1">
   [About](/about/){: .btn .btn-purple }
+  [Announcements](/announcements/){: .btn .btn-red }
   [Calendar](/calendar/){: .btn .btn-blue }
   [Staff](/staff/){: .btn .btn-green }
 </div>
