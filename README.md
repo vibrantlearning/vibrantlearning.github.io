@@ -44,9 +44,9 @@ body { margin:0; }
     </div>  
   </div>
   
-  <img src="assets/images/online classes logo.png" style="width:200px" alt="OCC Logo">
-  
   <p> We are a group of students offering free, high quality classes in a variety of academic subjects. Join today to start learning. </p>
+  
+  <img src="assets/images/online classes logo.png" style="width:200px" alt="OCC Logo">
   
   <h2 style="text-align:center"> About Our Club </h2>
   The Online Classes Club was created in response to the pandemic of COVID-19. Our online classes are for those that want to continue learning more regardless of what is going on the world.
