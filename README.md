@@ -39,18 +39,17 @@ body { margin:0; }
 <center>
 
   <div class="banner">
-    <div>
-      <p style="font-size:80px; color:white">Online Classes Club</p>
-    </div>  
+    <p style="font-size:80px; color:white">Online Classes Club</p>
   </div>
   <p> We are a group of students offering free, high quality classes in a variety of academic subjects. Join today to start learning. </p>
   
   <img src="assets/images/online classes logo.png" style="width:200px" alt="OCC Logo">
   
-  <h2 style="text-align:center"> About Our Club </h2>
-  The Online Classes Club was created in response to the pandemic of COVID-19. Our online classes are for those that want to continue learning more regardless of what is going on the world.
-
-  <h2 style="text-align:center"> Classes </h2>
-  Head over to the <a href="/classes/">Classes</a> tab to find out more about the courses we offer.
-  
 </center>
+
+
+## About Our Club
+The Online Classes Club was created in response to the pandemic of COVID-19. Our online classes are for those that want to continue learning more regardless of what is going on the world.
+
+## Classes
+Head over to the <a href="/classes/">Classes</a> tab to find out more about the courses we offer.
