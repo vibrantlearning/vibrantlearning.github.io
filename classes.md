@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Classes
-nav_exclude: true
 description: Here are the list of courses we currently offer.
 ---
 
