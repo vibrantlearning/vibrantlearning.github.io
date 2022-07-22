@@ -9,10 +9,7 @@ seo:
 ---
 
 <style>
-.banner {
-    /* The image used */
-    background-image: url(https://img.freepik.com/free-photo/beautiful-tree-middle-field-covered-with-grass-with-tree-line-background_181624-29267.jpg);
-  }
+.banner { background-image: url(https://img.freepik.com/free-photo/beautiful-tree-middle-field-covered-with-grass-with-tree-line-background_181624-29267.jpg); }
 
 .btn {
   border: 2px solid black;
@@ -38,9 +35,7 @@ body { margin:0; }
 
 <center>
 
-  <div class="banner">
-    <p style="font-size:80px; color:white">Online Classes Club</p>
-  </div>
+  <div class="banner"><p style="font-size:80px; color:white">Online Classes Club</p></div>
   <p> We are a group of students offering free, high quality classes in a variety of academic subjects. Join today to start learning. </p>
   
   <img src="assets/images/online classes logo.png" style="width:200px" alt="OCC Logo">
