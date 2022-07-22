@@ -35,9 +35,9 @@ body { margin:0; }
 
 <center>
   <div>
-    <div class="banner"><img src="assets/images/online classes logo.png" style="width:200px" alt="OCC Logo"><p style="font-size:80px; color:white">Online Classes Club</p></div>
+    <div class="banner"><p style="font-size:80px; color:white"><img src="assets/images/online classes logo.png" style="width:200px" alt="OCC Logo">Online Classes Club</p></div>
     <p>We are a group of students offering free, high quality classes in a variety of academic subjects. Join today to start learning.</p>
-  <div>
+  </div>
 </center>
 
 
