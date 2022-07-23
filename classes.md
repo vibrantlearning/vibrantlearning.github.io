@@ -6,7 +6,7 @@ description: Here are the list of courses we currently offer.
 
 # Classes
 
-Here are the list of courses we currently offer (summer 2022). Information regarding the curriculum/schedule can be found [here](https://tinyurl.com/occ-s5-info). Classes are currently ongoing, but you can still join [here](https://tinyurl.com/occ-s5-signup).
+Here are the list of courses we currently offer (summer 2022). Information regarding the curriculum/schedule can be found [here](https://tinyurl.com/occ-s5-info). Classes are currently ongoing, but you can still join [here](https://tinyurl.com/occ-s5-signup). Links to the meeting rooms can be found [here](https://tinyurl.com/occ-s5-links).
 
 ## Contest Math
 **Contest Math** is for elementary to middle schoolers hoping to prepare for contests like [MathLeague](https://mathleague.org/) and [TMSCA](https://www.tmsca.org/), as well as those who are interested in AMC 8-level concepts. _Prequisites_: familiarity with algebra, geometry, and basic counting techniques (equivalently, being able to solve 7-8 problems on AMC 8).
