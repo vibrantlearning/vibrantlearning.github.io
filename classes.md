@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Classes
+has_children: true
 description: Here are the list of courses we currently offer.
 ---
 
