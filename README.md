@@ -42,7 +42,4 @@ body { margin:0; }
 
 
 ## About Our Club
-The Online Classes Club was created in response to the pandemic of COVID-19. Our online classes are for those that want to continue learning more regardless of what is going on the world.
-
-## Classes
-Head over to the <a href="/classes/">Classes</a> tab to find out more about the courses we offer.
+The Online Classes Club was created in response to the pandemic of COVID-19. Our online classes are for those that want to continue learning more regardless of what is going on the world. Head over to the <a href="/classes/">Classes</a> page to find out more about the courses we offer.
