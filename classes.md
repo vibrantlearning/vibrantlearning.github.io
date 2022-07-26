@@ -16,7 +16,7 @@ Here are the list of courses we currently offer (summer 2022). Information regar
 **Algebra 1 and Geometry** aim to prepare the student for courses they might encounter in middle/high school. These classes will start from the very basics and work their way up to intermediate topics. _Prequisites_: understanding how to solve simple equations like $x+2=4$, familiarity with integer operations (PEMDAS) and the number line, or having previously taken 4th-5th grade Math.
 
 ## Biology & Physics
-**Biology and Physics** are courses designed for those curious about science (e.g. hoping to learn a bit of ``high school'' material at a simpler level) or interested in taking part in TMSCA Science or Science Bowl competitions. Through these classes, you'll gain an understanding of assorted topics in each of these subjects. _Prequisites_: having previously taken 2nd-3rd grade Science.
+**Biology and Physics** are courses designed for those curious about science (e.g. hoping to learn a bit of "high school" material at a simpler level) or interested in taking part in TMSCA Science or Science Bowl competitions. Through these classes, you'll gain an understanding of assorted topics in each of these subjects. _Prequisites_: having previously taken 2nd-3rd grade Science.
 
 ## Java
 **Java** is for anybody interested in learning to code and the basic skills associated with it. Students are expected to have JDK and IntelliJ downloaded before the class, but the teacher will instruct students on how to use an editor to write code. _Prequisites_: familiarity with basic algebra is expected but not required.
