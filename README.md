@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Online Classes Club
+title: Vibrant Learning
 nav_exclude: true
 permalink: index.html
 seo:
   type: Course
-  name: Online Classes Club
+  name: Vibrant Learning
 ---
 
 <style>
@@ -34,7 +34,7 @@ body { margin:0; }
 </style>
 
 <center>
-  <div class="banner"><p style="font-size:80px; color:white">Online Classes Club</p></div>
+  <div class="banner"><p style="font-size:80px; color:white">Vibrant Learning</p></div>
   <p>We are a group of students offering free, high quality classes in a variety of academic subjects. Join today to start learning.</p>
   
   <img src="assets/images/online classes logo.png" style="width:200px" alt="OCC Logo">
@@ -42,4 +42,4 @@ body { margin:0; }
 
 
 ## About Our Club
-The Online Classes Club was created in response to the pandemic of COVID-19. Our online classes are for those that want to continue learning more regardless of what is going on the world. Head over to the <a href="/classes/">Classes</a> page to find out more about the courses we offer.
+Vibrant Learning was created in response to the pandemic of COVID-19. Our online classes are for those that want to continue learning more regardless of what is going on the world. Head over to the <a href="/classes/">Classes</a> page to find out more about the courses we offer.
