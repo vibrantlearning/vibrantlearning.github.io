@@ -1,5 +1,5 @@
 ---
-title: Announcements: Biology class is cancelled + more
+title: Biology class is cancelled + more
 week: 1
 date: 2022-07-23
 ---
