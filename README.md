@@ -9,7 +9,7 @@ seo:
 ---
 
 <style>
-.banner { background-image: url(https://img.freepik.com/free-photo/beautiful-tree-middle-field-covered-with-grass-with-tree-line-background_181624-29267.jpg); }
+.banner { background-image: url(https://wallpaperaccess.com/full/1530149.jpg); }
 
 .btn {
   border: 2px solid black;
