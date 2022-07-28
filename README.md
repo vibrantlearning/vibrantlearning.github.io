@@ -22,5 +22,5 @@ seo:
 Vibrant Learning was created in response to the pandemic of COVID-19. Our online classes are for those that want to continue learning more regardless of what is going on the world. Head over to the <a href="/classes/">Classes</a> page to find out more about the courses we offer.
 
 <center>
-  <img src="assets/images/vibrant-tree.jpg" style="width:200px" alt="Vibrant Learning Logo">
+  <img src="assets/images/vibrant-tree.png" style="width:200px" alt="Vibrant Learning Logo">
 </center>
