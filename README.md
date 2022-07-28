@@ -10,27 +10,6 @@ seo:
 
 <style>
 .banner { background-image: url(https://wallpaperaccess.com/full/1530149.jpg); }
-
-.btn {
-  border: 2px solid black;
-  background-color: white;
-  color: white;
-  padding: 14px 28px;
-  font-size: 16px;
-  cursor: pointer;
-}
-
-.btn-green {
-  border-color: #04AA6D;
-  color: green;
-}
-
-.btn-green:hover {
-  background-color: #04AA6D;
-  color: white;
-}
-
-body { margin:0; }
 </style>
 
 <center>
